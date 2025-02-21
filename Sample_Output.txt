@@ -1,0 +1,54 @@
+fellipescirea@gandalf:~/Documents/BCIT/COMP2511 - C/Assignments/Assignment05/A01181350_Scirea_Assign05$ ./Assign5_start 
+  Six of Hearts         Three of Hearts         Seven of Diamonds       Seven of Hearts  
+Queen of Spades          Five of Clubs          Deuce of Spades          Nine of Diamonds
+Deuce of Diamonds         Ace of Hearts          King of Hearts         Queen of Diamonds
+Three of Diamonds        Four of Hearts          King of Diamonds        Jack of Diamonds
+Deuce of Hearts           Ten of Diamonds       Seven of Spades         Queen of Hearts  
+Eight of Clubs          Eight of Hearts         Deuce of Clubs            Ace of Diamonds
+ Jack of Hearts         Seven of Clubs           Five of Diamonds       Eight of Spades  
+  Ace of Clubs           Nine of Clubs            Ten of Clubs          Three of Spades  
+ Jack of Clubs            Six of Clubs           Five of Hearts          Four of Spades  
+Queen of Clubs          Eight of Diamonds        Nine of Spades          Four of Diamonds
+  Ten of Hearts          Jack of Spades           Ace of Spades          King of Spades  
+  Six of Diamonds         Ten of Spades          Four of Clubs            Six of Spades  
+Three of Clubs           Nine of Hearts          King of Clubs           Five of Spades  
+
+A pair occurred 4225210 times in 10 million hands, which means the probability of a pair is 42.25 %
+Two pair occurred 474881 times in 10 million hands, which means the probability of two pair is 4.75 %
+Three of a kind occurred 211242 times in 10 million hands, which means the probability of three of a kind is 2.11 %
+A straight occurred 39078 times in 10 million hands, which means the probability of a straight is 0.391 %
+A flush occurred 19415 times in 10 million hands, which means the probability of a flush is 0.194 %
+A full house occurred 14176 times in 10 million hands, which means the probability of a full house is 0.1418 %
+Four of a kind occurred 2376 times in 10 million hands, which means the probability of four of a kind is 0.0238 %
+Straight flush occurred 145 times in 10 million hands, which means the probability of a straight flush is 0.00145 %
+fellipescirea@gandalf:~/Documents/BCIT/COMP2511 - C/Assignments/Assignment05/A01181350_Scirea_Assign05$ 
+
+-------------------------
+Implementation or Royal Flush
+-------------------------
+
+fellipescirea@gandalf:~/Documents/BCIT/COMP2511 - C/Assignments/Assignment05/A01181350_Scirea_Assign05$ ./Assign5_start 
+Seven of Hearts          Four of Diamonds        Four of Clubs           King of Clubs   
+ Jack of Diamonds         Six of Hearts          Nine of Hearts           Ten of Hearts  
+ Four of Spades          Five of Diamonds       Deuce of Clubs          Eight of Hearts  
+ King of Spades         Eight of Diamonds        Five of Hearts          Four of Hearts  
+Queen of Diamonds       Seven of Diamonds        Five of Clubs          Eight of Clubs   
+ Nine of Diamonds         Ten of Spades         Three of Clubs           Jack of Clubs   
+ Nine of Spades          Jack of Hearts           Ten of Clubs          Eight of Spades  
+Seven of Spades           Six of Clubs            Ten of Diamonds       Deuce of Spades  
+  Ace of Clubs          Three of Spades           Ace of Diamonds         Ace of Spades  
+Seven of Clubs           King of Hearts           Six of Spades           Six of Diamonds
+Three of Hearts           Ace of Hearts          King of Diamonds       Queen of Spades  
+ Nine of Clubs          Queen of Hearts         Deuce of Diamonds       Queen of Clubs   
+Deuce of Hearts          Five of Spades          Jack of Spades         Three of Diamonds
+
+A pair occurred 4229473 times in 10 million hands, which means the probability of a pair is 42.29 %
+Two pair occurred 474484 times in 10 million hands, which means the probability of two pair is 4.74 %
+Three of a kind occurred 211792 times in 10 million hands, which means the probability of three of a kind is 2.12 %
+A straight occurred 39063 times in 10 million hands, which means the probability of a straight is 0.391 %
+A flush occurred 19595 times in 10 million hands, which means the probability of a flush is 0.196 %
+A full house occurred 14411 times in 10 million hands, which means the probability of a full house is 0.1441 %
+Four of a kind occurred 2428 times in 10 million hands, which means the probability of four of a kind is 0.0243 %
+Straight flush occurred 159 times in 10 million hands, which means the probability of a straight flush is 0.00159 %
+Royal flush occurred 15 times in 10 million hands, which means the probability of a royal flush is 0.00015 %
+fellipescirea@gandalf:~/Documents/BCIT/COMP2511 - C/Assignments/Assignment05/A01181350_Scirea_Assign05$ 
